@@ -37,3 +37,36 @@ Relationships:
 - Donations to multiple beneficiaries (Many-to-Many)
 
 ## Project Structure
+├── backend/
+│   └── server.js
+├── frontend/
+│   ├── public/
+│   └── src/
+├── donors.json
+├── donations.json
+└── beneficiaries.json
+
+
+## Setup
+
+### Run Backend
+```bash
+cd backend
+npm install
+node server.js
+```
+
+### Run Frontend
+```bash
+cd frontend
+npm install
+npm start
+```
+
+## Sample Data
+- `donors.json` — sample donor records
+- `donations.json` — sample donation records
+- `beneficiaries.json` — sample beneficiary records
+
+## Course
+Introduction to Database Systems — FAST NUCES
