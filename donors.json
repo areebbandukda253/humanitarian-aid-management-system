@@ -1,0 +1,23 @@
+[
+  {
+    "_id": { "$oid": "64dfdcef12a4b91b12345601" },
+    "name": "Ayesha Khan",
+    "email": "ayesha.khan@example.com",
+    "phone": "0301-2345678",
+    "donationHistory": ["64dfdcef12a4b91b12345610", "64dfdcef12a4b91b12345611"]
+  },
+  {
+    "_id": { "$oid": "64dfdcef12a4b91b12345602" },
+    "name": "Ali Raza",
+    "email": "ali.raza@example.com",
+    "phone": "0322-8765432",
+    "donationHistory": ["64dfdcef12a4b91b12345612"]
+  },
+  {
+    "_id": { "$oid": "64dfdcef12a4b91b12345603" },
+    "name": "Fatima Ahmed",
+    "email": "fatima.ahmed@example.com",
+    "phone": "0313-1122334",
+    "donationHistory": ["64dfdcef12a4b91b12345613", "64dfdcef12a4b91b12345614"]
+  }
+]

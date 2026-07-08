@@ -1,0 +1,42 @@
+[
+  {
+    "_id": { "$oid": "64dfdcef12a4b91b12345610" },
+    "donorId": { "$oid": "64dfdcef12a4b91b12345601" },
+    "type": "Food",
+    "quantity": 100,
+    "location": "Karachi",
+    "date": { "$date": "2023-08-01T00:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64dfdcef12a4b91b12345611" },
+    "donorId": { "$oid": "64dfdcef12a4b91b12345601" },
+    "type": "Clothing",
+    "quantity": 200,
+    "location": "Lahore",
+    "date": { "$date": "2023-08-05T00:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64dfdcef12a4b91b12345612" },
+    "donorId": { "$oid": "64dfdcef12a4b91b12345602" },
+    "type": "Medicine",
+    "quantity": 50,
+    "location": "Multan",
+    "date": { "$date": "2023-08-10T00:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64dfdcef12a4b91b12345613" },
+    "donorId": { "$oid": "64dfdcef12a4b91b12345603" },
+    "type": "Food",
+    "quantity": 300,
+    "location": "Peshawar",
+    "date": { "$date": "2023-08-12T00:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64dfdcef12a4b91b12345614" },
+    "donorId": { "$oid": "64dfdcef12a4b91b12345603" },
+    "type": "Shelter Materials",
+    "quantity": 20,
+    "location": "Sukkur",
+    "date": { "$date": "2023-08-14T00:00:00Z" }
+  }
+]
